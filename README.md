@@ -2,11 +2,11 @@
 
 ---
 
-## Description
+## 📝 Description
 
 A straightforward clock application that displays the current time, day of the week, and date.
 
-#### Technologies
+#### 💻 Technologies
 
 - HTML
 - CSS
@@ -14,7 +14,7 @@ A straightforward clock application that displays the current time, day of the w
 
 ---
 
-## Features
+## ✨ Features
 
 - Displays the current time.
 - Displays the current weekday.
@@ -22,13 +22,13 @@ A straightforward clock application that displays the current time, day of the w
 
 ---
 
-## Demo
+## 🚀 Demo
 
-[Clock App](https://clock-psi-lilac.vercel.app)
+[🔗 Clock App](https://clock-psi-lilac.vercel.app)
 
 ---
 
-## Installation
+## 🛠 Installation
 
 1. Clone the repository
 
